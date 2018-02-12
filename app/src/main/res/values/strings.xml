@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCollecter</string>
+    <string name="Type_a_word">Type a world</string>
+    <string name="Save">Save</string>
+    <string name="Clear">Clear</string>
+    <string name="Show">Show</string>
+</resources>
